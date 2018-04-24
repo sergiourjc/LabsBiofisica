@@ -4,4 +4,3 @@ pandas
 dask
 scipy
 wand
-mayavi

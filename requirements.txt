@@ -4,3 +4,5 @@ pandas
 dask
 scipy
 wand
+vtk==6.3
+mayavi

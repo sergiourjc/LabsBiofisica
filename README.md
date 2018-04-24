@@ -10,4 +10,4 @@ Para evitar problemas de instalación de programas, se va a programar online, de
 
 Pulsad en el siguiente enlace para comenzar:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sergiourjc/LabsBiofisica/master?filepath=PrimeraSesion.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sergiourjc/LabsBiofisica/master?filepath=Sesion1.ipynb)

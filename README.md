@@ -8,6 +8,6 @@ Para evitar problemas de instalación de programas, se va a programar online, de
 
 ¡Hagámoslo divertido! :)
 
-Pulsad en este enlace para empezar:
+Pulsad en el siguiente enlace para comenzar:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sergiourjc/LabsBiofisica/master?filepath=PrimeraSesion.ipynb)
